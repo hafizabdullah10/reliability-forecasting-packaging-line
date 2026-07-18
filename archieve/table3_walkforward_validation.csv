@@ -1,0 +1,6 @@
+Equipment,n_forecasts,GP RMSE,Static RMSE,Persist RMSE,ARIMA RMSE,p-value (GP vs Static),Significant?
+CBP30,21,0.480,0.322,0.264,0.249,0.4195,No
+Meurer,24,0.390,0.365,0.268,0.265,0.5311,No
+Helix,8,0.493,0.338,0.494,0.445,0.0945,No
+SA30,13,0.451,0.778,0.626,0.653,0.0109,Yes
+Main Line,19,0.371,0.638,0.393,0.459,0.0000,Yes
